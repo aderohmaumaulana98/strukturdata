@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 	int i,j,k,m[50][50];
 	
-	cout<<"masukan jumlah ordo : ";
+	cout<<"masukan panjang matriks : ";
 	cin>>i;
 	cout<<"\n\n";
 	for (j=0; j<i; j++){
